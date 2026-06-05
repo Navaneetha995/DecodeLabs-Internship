@@ -30,5 +30,8 @@ Project1 Portfolio/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
+## Output Screenshot
+
+![Portfolio Output](output.png)
 ## Author
 Navaneetha
